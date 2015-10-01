@@ -1,0 +1,11 @@
+c:\Users\edondelinger\documents\visual studio 2015\Projects\VeloLib\VeloConsole\bin\Debug\VeloConsole.exe.config
+c:\Users\edondelinger\documents\visual studio 2015\Projects\VeloLib\VeloConsole\bin\Debug\VeloConsole.exe
+c:\Users\edondelinger\documents\visual studio 2015\Projects\VeloLib\VeloConsole\bin\Debug\VeloConsole.pdb
+c:\Users\edondelinger\documents\visual studio 2015\Projects\VeloLib\VeloConsole\obj\Debug\VeloConsole.csprojResolveAssemblyReference.cache
+c:\Users\edondelinger\documents\visual studio 2015\Projects\VeloLib\VeloConsole\obj\Debug\VeloConsole.exe
+c:\Users\edondelinger\documents\visual studio 2015\Projects\VeloLib\VeloConsole\obj\Debug\VeloConsole.pdb
+c:\Users\edondelinger\documents\visual studio 2015\Projects\VeloLib\VeloConsole\bin\Debug\VeloLib.dll
+c:\Users\edondelinger\documents\visual studio 2015\Projects\VeloLib\VeloConsole\bin\Debug\VeloLib.pdb
+C:\Users\cdincher\Desktop\VeloLib\VeloConsole\bin\Debug\VeloConsole.exe.config
+C:\Users\cdincher\Desktop\VeloLib\VeloConsole\obj\Debug\VeloConsole.exe
+C:\Users\cdincher\Desktop\VeloLib\VeloConsole\obj\Debug\VeloConsole.pdb

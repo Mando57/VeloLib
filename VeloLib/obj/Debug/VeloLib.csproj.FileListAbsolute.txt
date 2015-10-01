@@ -1,0 +1,10 @@
+c:\users\edondelinger\documents\visual studio 2015\Projects\VeloLib\VeloLib\bin\Debug\VeloLib.dll
+c:\users\edondelinger\documents\visual studio 2015\Projects\VeloLib\VeloLib\bin\Debug\VeloLib.pdb
+c:\users\edondelinger\documents\visual studio 2015\Projects\VeloLib\VeloLib\obj\Debug\VeloLib.dll
+c:\users\edondelinger\documents\visual studio 2015\Projects\VeloLib\VeloLib\obj\Debug\VeloLib.pdb
+C:\Users\edondelinger\documents\visual studio 2015\Projects\VeloLib\VeloLib\obj\Debug\VeloLib.csprojResolveAssemblyReference.cache
+C:\Users\cdincher\Desktop\VeloLib\VeloLib\bin\Debug\VeloLib.dll
+C:\Users\cdincher\Desktop\VeloLib\VeloLib\bin\Debug\VeloLib.pdb
+C:\Users\cdincher\Desktop\VeloLib\VeloLib\obj\Debug\VeloLib.csprojResolveAssemblyReference.cache
+C:\Users\cdincher\Desktop\VeloLib\VeloLib\obj\Debug\VeloLib.dll
+C:\Users\cdincher\Desktop\VeloLib\VeloLib\obj\Debug\VeloLib.pdb

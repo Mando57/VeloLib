@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeloLib", "VeloLib\VeloLib.csproj", "{643E2CF1-B81F-4D37-B5C2-FF3C6F6794DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeloConsole", "VeloConsole\VeloConsole.csproj", "{372F9187-FA71-4DE9-9747-0474F780A68C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeloAppForms", "VeloAppForms\VeloAppForms.csproj", "{7179EFEF-312B-46AE-B8A8-C2F1EACB7E5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{643E2CF1-B81F-4D37-B5C2-FF3C6F6794DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643E2CF1-B81F-4D37-B5C2-FF3C6F6794DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643E2CF1-B81F-4D37-B5C2-FF3C6F6794DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643E2CF1-B81F-4D37-B5C2-FF3C6F6794DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{372F9187-FA71-4DE9-9747-0474F780A68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372F9187-FA71-4DE9-9747-0474F780A68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372F9187-FA71-4DE9-9747-0474F780A68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372F9187-FA71-4DE9-9747-0474F780A68C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7179EFEF-312B-46AE-B8A8-C2F1EACB7E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7179EFEF-312B-46AE-B8A8-C2F1EACB7E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7179EFEF-312B-46AE-B8A8-C2F1EACB7E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7179EFEF-312B-46AE-B8A8-C2F1EACB7E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
